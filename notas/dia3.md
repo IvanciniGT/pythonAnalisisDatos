@@ -139,7 +139,7 @@ DECITION TREE       1 modelo
 RANDOM FOREST       genera un huevo de DECITION TREE
 
 
-
+    
     | Probabilidad
  1  |            ....................     DETECTADO
     |            .    
