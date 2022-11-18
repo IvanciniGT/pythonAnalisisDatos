@@ -98,6 +98,12 @@ A veces me importa una mierda acertar en los SIs o en los NOs. Lo que interesa e
         SI          10          50       60
                     45          55      100
     
+    
+    50/60 PRECISION DE UN MODELO
+    50/55 RECALL-SENSIBILIDAD
+    MEDIA DE ESAS: F-VALUE
+    
+    
     Tasa de éxito de mi prueba A ?
         Qué es el éxito?                    %
             Acertar en los SIs?              50/60   = 83%

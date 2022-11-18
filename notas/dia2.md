@@ -310,11 +310,11 @@ ScatterPlot (diagrama de dispersión)
  |        |
  |        |
  |        |
- |      -----       Q3                      ^       Sumo del Q3+1.5xRIC
+ |      -----       Q3                      ^       Sumo del Q3 + 1.5xRIC
  |      |   |                               |
  |      +---+       Mediana = Q2            |       Altura de la caja: Q3-Q1 = RIC *1.5
  |      |   |                               |
- |      -----       Q1                      v       Resto del Q1-1.5xRIC
+ |      -----       Q1                      v       Resto del Q1 - 1.5xRIC
  |        |
  |        |
  |        |
